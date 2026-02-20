@@ -54,8 +54,8 @@ class _HomeScreenState extends State<HomeScreen> with SingleTickerProviderStateM
 
   // MODIFICADO: Ahora carga desde GitHub y tiene memoria local (caché)
   Future<void> _loadData() async {
-    const String urlCanales = "https://raw.githubusercontent.com/rikus4416-stack/tv/main/assets/canales.json";
-    const String urlPeliculas = "https://raw.githubusercontent.com/rikus4416-stack/tv/main/assets/peliculas.json";
+    const String urlCanales = "https://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@raw.githubusercontent.com/rikus4416-stack/tv/main/assets/canales.json";
+    const String urlPeliculas = "https://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@raw.githubusercontent.com/rikus4416-stack/tv/main/assets/peliculas.json";
 
     final prefs = await SharedPreferences.getInstance();
 
