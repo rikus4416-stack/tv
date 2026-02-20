@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Película 1",
+    "url": "https://stream.pelicula1.com/video.mp4",
+    "imageUrl": "https://stream.pelicula1.com/cover.png"
+  },
+  {
+    "name": "Película 2",
+    "url": "https://stream.pelicula2.com/video.mp4",
+    "imageUrl": "https://stream.pelicula2.com/cover.png"
+  },
+  {
+    "name": "Película 3",
+    "url": "https://stream.pelicula3.com/video.mp4",
+    "imageUrl": "https://stream.pelicula3.com/cover.png"
+  }
+]
