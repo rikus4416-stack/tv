@@ -5,6 +5,7 @@ import 'package:flutter/services.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:media_kit/media_kit.dart';
 import 'package:media_kit_video/media_kit_video.dart';
+import 'package:http/http.dart' as http; // <--- NUEVO IMPORT
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
@@ -51,22 +52,41 @@ class _HomeScreenState extends State<HomeScreen> with SingleTickerProviderStateM
     _loadData();
   }
 
+  // MODIFICADO: Ahora carga desde GitHub y tiene memoria local (caché)
   Future<void> _loadData() async {
+    const String urlCanales = "https://raw.githubusercontent.com/rikus4416-stack/tv/main/assets/canales.json";
+    const String urlPeliculas = "https://raw.githubusercontent.com/rikus4416-stack/tv/main/assets/peliculas.json";
+
     final prefs = await SharedPreferences.getInstance();
+
+    try {
+      // Intentamos bajar canales de GitHub (tiempo de espera de 8 seg)
+      final resCanales = await http.get(Uri.parse(urlCanales)).timeout(const Duration(seconds: 8));
+      if (resCanales.statusCode == 200) {
+        await prefs.setString('channels_data', resCanales.body);
+      }
+
+      // Intentamos bajar películas de GitHub
+      final resPelis = await http.get(Uri.parse(urlPeliculas)).timeout(const Duration(seconds: 8));
+      if (resPelis.statusCode == 200) {
+        await prefs.setString('movies_data', resPelis.body);
+      }
+    } catch (e) {
+      debugPrint("Error de red, cargando última lista guardada: $e");
+    }
+
+    // Ahora leemos lo que sea que haya quedado en memoria (lo nuevo o lo anterior)
     final String? channelsPref = prefs.getString('channels_data');
     final String? moviesPref = prefs.getString('movies_data');
 
     if (channelsPref != null && channelsPref.isNotEmpty) {
       channels = (jsonDecode(channelsPref) as List).map((e) => ContentItem.fromMap(e)).toList();
     } else {
+      // Si la app es nueva y no hay internet, lee el archivo de la carpeta assets
       try {
         String jsonString = await rootBundle.loadString('assets/canales.json');
-        List decoded = jsonDecode(jsonString);
-        channels = decoded.map((e) => ContentItem.fromMap(e)).toList();
-        await prefs.setString('channels_data', jsonEncode(channels.map((e) => e.toMap()).toList()));
-      } catch (e) {
-        debugPrint("Error cargando canales.json: $e");
-      }
+        channels = (jsonDecode(jsonString) as List).map((e) => ContentItem.fromMap(e)).toList();
+      } catch (e) { debugPrint(e.toString()); }
     }
 
     if (moviesPref != null && moviesPref.isNotEmpty) {
@@ -74,13 +94,10 @@ class _HomeScreenState extends State<HomeScreen> with SingleTickerProviderStateM
     } else {
       try {
         String jsonString = await rootBundle.loadString('assets/peliculas.json');
-        List decoded = jsonDecode(jsonString);
-        movies = decoded.map((e) => ContentItem.fromMap(e)).toList();
-        await prefs.setString('movies_data', jsonEncode(movies.map((e) => e.toMap()).toList()));
-      } catch (e) {
-        debugPrint("Error cargando peliculas.json: $e");
-      }
+        movies = (jsonDecode(jsonString) as List).map((e) => ContentItem.fromMap(e)).toList();
+      } catch (e) { debugPrint(e.toString()); }
     }
+    
     setState(() {});
   }
 
@@ -183,15 +200,15 @@ class _FullScreenPlayerState extends State<FullScreenPlayer> {
   void _setupPlayer() {
     final dynamic native = player.platform;
     try {
-      // AJUSTES DE VELOCIDAD PRIORITARIOS
-      native.setProperty('network-caching', '200'); // Buffer de medio segundo
-      native.setProperty('probedata', '16384');      // Analiza lo mínimo del stream
-      native.setProperty('analyzeduration', '500'); // No pierde tiempo analizando
-      native.setProperty('fpsprobesize', '0');       // No espera para calcular FPS
+      // SE MANTIENEN TUS AJUSTES DE VELOCIDAD PERFECTOS
+      native.setProperty('network-caching', '200'); 
+      native.setProperty('probedata', '16384');      
+      native.setProperty('analyzeduration', '500'); 
+      native.setProperty('fpsprobesize', '0');       
       native.setProperty('fastseek', 'yes');
       native.setProperty('rtsp_transport', 'udp');
-      native.setProperty('framedrop', 'vo');         // Salta cuadros si el CPU se agota
-      native.setProperty('tls-verify', 'no');        // Ignora certificados SSL
+      native.setProperty('framedrop', 'vo');         
+      native.setProperty('tls-verify', 'no');        
       native.setProperty('user-agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36');
     } catch (e) {
       debugPrint("Error de motor: $e");
@@ -213,7 +230,7 @@ class _FullScreenPlayerState extends State<FullScreenPlayer> {
     setState(() {
       _currentIndex = index;
       player.open(Media(widget.items[_currentIndex].url));
-      _showControls = true; // Mostrar cartel al cambiar
+      _showControls = true;
     });
     _startHideControlsTimer();
   }
@@ -227,7 +244,6 @@ class _FullScreenPlayerState extends State<FullScreenPlayer> {
 
   @override
   Widget build(BuildContext context) {
-    // Escuchamos las teclas del control remoto
     return Shortcuts(
       shortcuts: <LogicalKeySet, Intent>{
         LogicalKeySet(LogicalKeyboardKey.arrowUp): const ScrollIntent(direction: AxisDirection.up),
