@@ -86,14 +86,14 @@
   }
 ,
   {
-    "name": "ESPN PREMIUM",
-    "url": "http://tecnotv.club/f1002/phpcode/ssiptv.php?c=ch42&token=tecnotokenplustv1402&f=.m3u8",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/512px-ESPN_Premium_logo.svg.png    "
+    "name": "CINEMA BOX",
+    "url": "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8?ads.vf=kU8ru-Yl4zG",
+    "imageUrl": "https://e7.pngegg.com/pngimages/39/640/png-clipart-film-cinema-illustration-popcorn-and-film-food-baking-thumbnail.png"
   },
   {
-    "name": "TNT SPORT",
-    "url": "http://tecnotv.club/f1002/phpcode/ssiptv.php?c=ch26&token=tecnotokenplustv1402&f=.m3u8",
-    "imageUrl": ""
+    "name": "GEN TV",
+    "url": "https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8",
+    "imageUrl": "https://e1.pngegg.com/pngimages/259/287/png-clipart-metrostation-tv-logo-thumbnail.png"
   },
   {
     "name": "UNIVERSAL",
