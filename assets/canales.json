@@ -2,19 +2,19 @@
   {
     "name": "Ciudad Magica TV",
     "url": "https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8",
-    "imageUrl": "https://i.imgur.com/HJkSz2U.png"
+    "imageUrl": "https://i.imgur.com/HJkSz2U.png",
     "category": "Noticias"
   },
   {
     "name": "NEO TV",
     "url": "https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvWr_nyZA_TBQu9o5aGgkMOn63QLnp8UcAQg&s"
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvWr_nyZA_TBQu9o5aGgkMOn63QLnp8UcAQg&s",
     "category": "Noticias"
   },
   {
     "name": "El Nueve",
     "url": "http://107.152.39.199:8030/hls/canal7.m3u8",
-    "imageUrl": "https://i.imgur.com/cJHP7bU.png"
+    "imageUrl": "https://i.imgur.com/cJHP7bU.png",
     "category": "Deportes"
   },
   {
@@ -50,25 +50,25 @@
   {
     "name": "TYC Sports",
     "url": "https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png",
     "category": "Deportes"
   },
   {
     "name": "Sony",
     "url": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png",
     "category": "Entretenimiento"
   },
   {
     "name": "Cine Terror",
     "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
-    "imageUrl": "https://filmfilicos.com/wp-content/uploads/2025/05/evolucion-del-cine-de-terror.png"
+    "imageUrl": "https://filmfilicos.com/wp-content/uploads/2025/05/evolucion-del-cine-de-terror.png",
     "category": "Entretenimiento"
   },
   {
     "name": "MEGACINE",
     "url": "https://mlb.essastream.com:8081/megacinetv/tracks-v1a1/mono.m3u8",
-    "imageUrl": "https://www.mega-cine.com/wp-content/uploads/2012/12/logo_megavideo1-300x81.png"
+    "imageUrl": "https://www.mega-cine.com/wp-content/uploads/2012/12/logo_megavideo1-300x81.png",
     "category": "Entretenimiento"
   },
   {
@@ -79,7 +79,7 @@
   {
     "name": "Pelis TV",
     "url": "https://top-movies-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_name=top-movies-rakuten-tv_es&ads.rtv_content_id=5983&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=abba429e-eb63-4fcd-9759-e538d1e203f2&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=5983&publishing_platform_id=5",
-    "imageUrl": "https://i.imgur.com/jP19sGt.png"
+    "imageUrl": "https://i.imgur.com/jP19sGt.png",
     "category": "Entretenimiento"
   },
   {
