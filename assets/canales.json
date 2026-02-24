@@ -137,14 +137,132 @@
     "name": "HBO",
     "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/9666.ts",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png"
+  },{
+    "name": "TyC Sports (Deportes)",
+    "category": "DEPORTES",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/TyC_Sports_Logo.png",
+    "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/9527.ts"
   },
   {
-    "name": "",
-    "url": "",
-    "imageUrl": ""
+    "name": "Fox Sports 1 (Deportes)",
+    "category": "DEPORTES",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Fox_Sports_logo.png",
+    "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/179492.ts"
+  },
+  {
+    "name": "ESPN (Deportes)",
+    "category": "DEPORTES",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/300px-ESPN_wordmark.svg.png",
+    "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/9549.ts"
+  },
+  {
+    "name": "ESPN 2 (Deportes)",
+    "category": "DEPORTES",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/300px-ESPN_wordmark.svg.png",
+    "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/157584.ts"
+  },
+  {
+    "name": "Win Sports (Deportes)",
+    "category": "DEPORTES",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Win_Sports_Logo.png",
+    "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/9560.ts"
+  },
+  {
+    "name": "Directv Sports (Deportes)",
+    "category": "DEPORTES",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/DSports_Logo.png",
+    "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/9521.ts"
+  },
+  {
+    "name": "Star Channel (Cine)",
+    "category": "CINE",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Star_Channel_logo.svg/512px-Star_Channel_logo.svg.png",
+    "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/9723.ts"
+  },
+  {
+    "name": "Warner Channel (Cine)",
+    "category": "CINE",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Warner_Channel_Logo.svg/512px-Warner_Channel_Logo.svg.png",
+    "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/9717.ts"
+  },
+  {
+    "name": "Cinemax (Cine)",
+    "category": "CINE",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Cinemax_logo.svg/512px-Cinemax_logo.svg.png",
+    "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/9631.ts"
+  },
+  {
+    "name": "Paramount Network (Cine)",
+    "category": "CINE",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Paramount_Network_Logo.svg/512px-Paramount_Network_Logo.svg.png",
+    "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/9755.ts"
+  },
+  {
+    "name": "Sony Channel (Cine)",
+    "category": "CINE",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sony_Channel_logo.svg/512px-Sony_Channel_logo.svg.png",
+    "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/9775.ts"
+  },
+  {
+    "name": "Space (Cine)",
+    "category": "CINE",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Space_Logo.svg/512px-Space_Logo.svg.png",
+    "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/9633.ts"
+  },
+  {
+    "name": "Los Simpson 24/7",
+    "category": "24/7",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/0d/Simpsons_Family_Portrait.png",
+    "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/166306.ts"
+  },
+  {
+    "name": "Dragon Ball Z 24/7",
+    "category": "24/7",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dragon_Ball_Z_Logo.svg/512px-Dragon_Ball_Z_Logo.svg.png",
+    "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/166092.ts"
+  },
+  {
+    "name": "Futurama 24/7",
+    "category": "24/7",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/512px-Futurama_1999_logo.svg.png",
+    "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/165556.ts"
+  },
+  {
+    "name": "Malcolm in the Middle 24/7",
+    "category": "24/7",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Malcolm_in_the_middle.svg/512px-Malcolm_in_the_middle.svg.png",
+    "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/178841.ts"
+  },
+  {
+    "name": "The Big Bang Theory 24/7",
+    "category": "24/7",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/The_Big_Bang_Theory_logo.svg/512px-The_Big_Bang_Theory_logo.svg.png",
+    "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/169572.ts"
+  },
+  {
+    "name": "Discovery Channel (Cultura)",
+    "category": "CULTURA",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Discovery_logo.svg/512px-Discovery_logo.svg.png",
+    "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/9841.ts"
+  },
+  {
+    "name": "Nat Geo (Cultura)",
+    "category": "CULTURA",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/National_Geographic_logo.svg/512px-National_Geographic_logo.svg.png",
+    "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/8218.ts"
+  },
+  {
+    "name": "Animal Planet (Cultura)",
+    "category": "CULTURA",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Animal_Planet_logo.svg/512px-Animal_Planet_logo.svg.png",
+    "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/9838.ts"
+  },
+  {
+    "name": "History Channel (Cultura)",
+    "category": "CULTURA",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Channel_logo.svg/512px-History_Channel_logo.svg.png",
+    "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/9812.ts"
   }
-
-
 
 
 
