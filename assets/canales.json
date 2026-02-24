@@ -94,9 +94,9 @@
   }
 ,
   {
-    "name": "ESPN PREMIUM",
-    "url": "http://tecnotv.club/f1002/phpcode/ssiptv.php?c=ch42&token=tecnotokenplustv1402&f=.m3u8",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/512px-ESPN_Premium_logo.svg.png    "
+    "name": "Nikelodeon",
+    "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=4f542da4-e11c-4e1a-b2c5-72bb020bd334",
+    "imageUrl": ""
   },
   {
     "name": "TNT SPORT",
