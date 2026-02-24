@@ -13,5 +13,49 @@
     "name": "TED 2",
     "url": "https://ia801904.us.archive.org/31/items/10010010/10010010.mp4",
     "imageUrl": "https://stream.pelicula3.com/cover.png"
+  },
+  {
+    "name": "LOCO POR MARY",
+    "url": "https://archive.org/download/loco-por-mary-1998-espanol-latino-vhs-rip-fullscreen/Loco%20por%20mary%20%281998%29%20Espa%C3%B1ol%20Latino%20VHS-Rip%20Fullscreen.mp4",
+    "imageUrl": "https://stream.pelicula3.com/cover.png"
+  },
+  {
+    "name": "VOLVER AL FUTURO",
+    "url": "https://archive.org/download/1985-volver-al-futuro-en-espanol-latino/%281985%29%20Volver%20al%20Futuro%20%28Robert%20Zemeckis%29.mp4",
+    "imageUrl": "https://stream.pelicula3.com/cover.png"
+  },
+  {
+    "name": "VOLVER AL FUTURO II",
+    "url": "https://archive.org/download/volver-al-futuro-ii/Volver%20al%20Futuro%20II.mp4",
+    "imageUrl": "https://stream.pelicula3.com/cover.png"
+  },
+  {
+    "name": "Contacto Sangriento",
+    "url": "https://archive.org/download/contacto-sangriento_202407/CONTACTO%20SANGRIENTO.mp4",
+    "imageUrl": "https://stream.pelicula3.com/cover.png"
+  },
+  {
+    "name": "Los Increíbles (Doblaje Argentino)",
+    "category": "DOBLAJE AR",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/vY08SclN86B8S758XpX7zI828S3.jpg",
+    "url": "https://drive.google.com/uc?export=download&id=1_8p0W7U2KscV5W4R3R6u7u7H9-8Y1A-x"
+  },
+  {
+    "name": "Ratatouille (Doblaje Argentino)",
+    "category": "DOBLAJE AR",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/npS6bOfSrAs9TM9oThS9C7p08sT.jpg",
+    "url": "https://drive.google.com/uc?export=download&id=1Y-oM_e_3V8R_R_R0r7P7-F8R8R_R8R_R"
+  },
+  {
+    "name": "Cars (Doblaje Argentino)",
+    "category": "DOBLAJE AR",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/abfGn98XcfV99V99.jpg",
+    "url": "https://drive.google.com/uc?export=download&id=1bavnNUYpPy5bS2Iz9TsvcmKCN01NHtvJ"
+  },
+  {
+    "name": "Chicken Little (Doblaje Argentino)",
+    "category": "DOBLAJE AR",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/8XU8Y9X7Z8X9X7Z8X9X7Z8X9X7Z.jpg",
+    "url": "https://drive.google.com/uc?export=download&id=1X-oM_e_3V8R_R_R0r7P7-F8R8R_R8R_R"
   }
 ]
