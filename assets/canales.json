@@ -3,13 +3,13 @@
     "name": "Ciudad Magica TV",
     "url": "https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8",
     "imageUrl": "https://i.imgur.com/HJkSz2U.png",
-    "category": "NOTICIAS"
+    "category": "CINE"
   },
   {
     "name": "NEO TV",
     "url": "https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvWr_nyZA_TBQu9o5aGgkMOn63QLnp8UcAQg&s",
-    "category": "NOTICIAS"
+    "category": "CINE"
   },
   {
     "name": "El Nueve",
@@ -39,7 +39,7 @@
     "name": "Disney",
     "url": "http://201.230.121.186:8000/play/a0fb/index.m3u8",
     "imageUrl": "https://e7.pngegg.com/pngimages/770/381/png-clipart-disney-plus-logo-icons-logos-emojis-iconic-brands-thumbnail.png",
-    "category": "KID"
+    "category": "KIDS"
   },
   {
     "name": "Telemax",
@@ -105,7 +105,7 @@
     "name": "Nikelodeon",
     "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=4f542da4-e11c-4e1a-b2c5-72bb020bd334",
     "imageUrl": "",
-    "category": "KID"
+    "category": "KIDS"
   },
   {
     "name": "Nick Junior (Kids)",
@@ -168,7 +168,7 @@
     "category": "CINE"
   },
   {
-    "name": "TyC Sports (Deportes)",
+    "name": "ESPN 2(Deportes)",
     "category": "DEPORTES",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/TyC_Sports_Logo.png",
     "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/9527.ts"
@@ -180,25 +180,25 @@
     "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/179492.ts"
   },
   {
-    "name": "ESPN (Deportes)",
+    "name": "ESPN PREMIUN (Deportes)",
     "category": "DEPORTES",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/300px-ESPN_wordmark.svg.png",
     "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/9549.ts"
   },
   {
-    "name": "ESPN 2 (Deportes)",
+    "name": "TNT SPORT (Deportes)",
     "category": "DEPORTES",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/300px-ESPN_wordmark.svg.png",
     "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/157584.ts"
   },
   {
-    "name": "Win Sports (Deportes)",
+    "name": "DIRECTV SPORT (Deportes)",
     "category": "DEPORTES",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Win_Sports_Logo.png",
     "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/9560.ts"
   },
   {
-    "name": "Directv Sports (Deportes)",
+    "name": "ESPN (Deportes)",
     "category": "DEPORTES",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/DSports_Logo.png",
     "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/9521.ts"
@@ -240,37 +240,37 @@
     "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/9633.ts"
   },
   {
-    "name": "Los Simpson 24/7",
+    "name": "THE OFFICE 24/7",
     "category": "24/7",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/0d/Simpsons_Family_Portrait.png",
     "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/166306.ts"
   },
   {
-    "name": "Dragon Ball Z 24/7",
+    "name": "COMO CONOCI A TU MADRE 24/7",
     "category": "24/7",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dragon_Ball_Z_Logo.svg/512px-Dragon_Ball_Z_Logo.svg.png",
     "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/166092.ts"
   },
   {
-    "name": "Futurama 24/7",
+    "name": "CASADO CON HIJOS 24/7",
     "category": "24/7",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/512px-Futurama_1999_logo.svg.png",
     "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/165556.ts"
   },
   {
-    "name": "Malcolm in the Middle 24/7",
+    "name": "LOS SIMPSON 24/7",
     "category": "24/7",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Malcolm_in_the_middle.svg/512px-Malcolm_in_the_middle.svg.png",
     "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/178841.ts"
   },
   {
-    "name": "The Big Bang Theory 24/7",
+    "name": "UN SHOW MAS 24/7",
     "category": "24/7",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/The_Big_Bang_Theory_logo.svg/512px-The_Big_Bang_Theory_logo.svg.png",
     "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/169572.ts"
   },
   {
-    "name": "Discovery Channel (Cultura)",
+    "name": "HISTORY (Cultura)",
     "category": "CULTURA",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Discovery_logo.svg/512px-Discovery_logo.svg.png",
     "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/9841.ts"
@@ -282,13 +282,13 @@
     "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/8218.ts"
   },
   {
-    "name": "Animal Planet (Cultura)",
+    "name": "HISTORY HD (Cultura)",
     "category": "CULTURA",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Animal_Planet_logo.svg/512px-Animal_Planet_logo.svg.png",
     "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/9838.ts"
   },
   {
-    "name": "History Channel (Cultura)",
+    "name": "ANIMAL PLANET (Cultura)",
     "category": "CULTURA",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Channel_logo.svg/512px-History_Channel_logo.svg.png",
     "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/9812.ts"
