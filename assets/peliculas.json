@@ -111,5 +111,246 @@
     "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/7242.mkv",
     "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPifsnK3ui76Cq7xMDe1AVlrA0k.jpg",
     "category": "VOD CINE"
+  },
+  [
+  {
+    "name": "La odisea de los giles (2019)",
+    "category": "comedia",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t5oMn99BVp9IJruztEwpKgvqA2h.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/1553.mkv"
+  },
+  {
+    "name": "El robo del siglo (2020)",
+    "category": "suspenso",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/acQ5lwnQGwre8n3m8JzTTcNKc5h.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/46859.mkv"
+  },
+  {
+    "name": "American Pie: Tu Primera vez (1999)",
+    "category": "comedia",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOTrvXIrfVzZa00I2AXCCGI2Nqp.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/1450.mkv"
+  },
+  {
+    "name": "American Pie 2: Tu Segunda Vez Es Mejor (2001)",
+    "category": "comedia",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ap9SAk1FgcoPETCn60QUGw9jbbp.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/1451.mkv"
+  },
+  {
+    "name": "American Pie 4: El Reencuentro (2012)",
+    "category": "comedia",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/prurn3HioMykwlFMZdfvJ88iPlM.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/8270.mkv"
+  },
+  {
+    "name": "La Empleada (2025)",
+    "category": "estrenos 2026",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8ygUQ4YNd8iy0oEusS1bHI08A6.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/176863.mkv"
+  },
+  {
+    "name": "Cars (2006)",
+    "category": "infantil",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgBe9KD6DoLyQP28JZ6fSUGK8j0.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/1915.mkv"
+  },
+  {
+    "name": "Cars 2 (2011)",
+    "category": "infantil",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBA66Wt5ITme3KWxJDqqMHeFx3y.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/1916.mkv"
+  },
+  {
+    "name": "Cars 3 (2017)",
+    "category": "infantil",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6UziEme94jVR23jhDHL1IPisWs.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/1917.mkv"
+  },
+  {
+    "name": "Chicken Little (2005)",
+    "category": "infantil",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AsDUBjrECTVstxCSGvPbwpA0I0M.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/1918.mkv"
+  },
+  {
+    "name": "Coco (2017)",
+    "category": "infantil",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oburjHqzOrTtDLYbLunKLwUHhk1.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/1919.mkv"
+  },
+  {
+    "name": "Dinosaurio (2000)",
+    "category": "infantil",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPSmob9PGE2O4DE0PHaaqgwDrVg.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/1920.mkv"
+  },
+  {
+    "name": "Frozen 2 (2019)",
+    "category": "infantil",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnFCk7qGGWop2DgfnJXeKLZFuBq.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/1921.mkv"
+  },
+  {
+    "name": "Monsters University (2013)",
+    "category": "infantil",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDwaVE6Ab1WGnzNEV4Irrtmbdsm.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/1922.mkv"
+  },
+  {
+    "name": "Onward (2020)",
+    "category": "infantil",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jiwsh6i9DeguL4iRgQkpkP7m11.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/1923.mkv"
+  },
+  {
+    "name": "Pinocho (2022)",
+    "category": "infantil",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/76MYNTMpbiZYqzNArPXmXnPsQce.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/1924.mkv"
+  },
+  {
+    "name": "Ratatouille (2007)",
+    "category": "infantil",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGUelOVetiRpY2wTBMHTbrTIGYC.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/1925.mkv"
+  },
+  {
+    "name": "Soul (2020)",
+    "category": "infantil",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJ7MCAy4oCLerPo3JjnB8lKOhl4.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/1926.mkv"
+  },
+  {
+    "name": "Toy Story 3 (2010)",
+    "category": "infantil",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNMYWGov98EySsv31FVEcnMKt9q.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/1927.mkv"
+  },
+  {
+    "name": "Toy Story 4 (2019)",
+    "category": "infantil",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yF1vPDuHVrAUMX5dy1tVMbAjkEL.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/1928.mkv"
+  },
+  {
+    "name": "Up (2009)",
+    "category": "infantil",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cy6TJ97pUgjM0I4yhF53duTjvWY.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/1929.mkv"
+  },
+  {
+    "name": "Scary Movie (2000)",
+    "category": "parodias",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHWR3YplPQWciYzxEity2kyDoDn.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/3065.mkv"
+  },
+  {
+    "name": "Scary Movie 2: Otra película de miedo (2001)",
+    "category": "parodias",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/90G7YLxKXbEdfcRvlOSRBwbTLS6.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/3066.mkv"
+  },
+  {
+    "name": "Scary Movie 3 (2003)",
+    "category": "parodias",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tMsPb5yEwmb4eHbXRAD6mURE5B.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/3067.mkv"
+  },
+  {
+    "name": "Scary movie 4: Descuartizados de miedo (2006)",
+    "category": "parodias",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5v0yI7fsSeMEoq35fuaL1DJWyW2.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/3068.mkv"
+  },
+  {
+    "name": "Scary Movie 5 (2013)",
+    "category": "parodias",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjsX6YYZEepnuJ6F04MAGGOSdbJ.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/3069.mkv"
+  },
+  {
+    "name": "Deadpool & Wolverine (2024)",
+    "category": "4k",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6aY3OzCIdxoBMYdiH5s17rWFFFA.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/133109.mkv"
+  },
+  {
+    "name": "Batman (2022)",
+    "category": "4k",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/46209.mkv"
+  },
+  {
+    "name": "Harry Potter y la cámara secreta (2002)",
+    "category": "4k",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7lK3K1QWmcgjHyRMBV3rT2yzTM.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/46231.mkv"
+  },
+  {
+    "name": "Harry Potter y las reliquias de la muerte (1ª parte) (2010)",
+    "category": "4k",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZYziROYpqXI1DeW4Xz3egMOqej.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/46232.mkv"
+  },
+  {
+    "name": "Harry Potter y las reliquias de la muerte: Parte 2 (2011)",
+    "category": "4k",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/46233.mkv"
+  },
+  {
+    "name": "Harry Potter y el cáliz de fuego (2005)",
+    "category": "4k",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hrrncgY7GfRHz6JmnhPlvJUONe.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/46234.mkv"
+  },
+  {
+    "name": "Harry Potter y el misterio del príncipe (2009)",
+    "category": "4k",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tO0UGkNuQoxyXve0mvwtXP49NAO.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/46235.mkv"
+  },
+  {
+    "name": "Harry Potter y la orden del Fénix (2007)",
+    "category": "4k",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxXiM2Ij7plbzibKWW9BfDk23aI.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/46236.mkv"
+  },
+  {
+    "name": "Harry Potter y la piedra filosofal (2001)",
+    "category": "4k",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/46237.mkv"
+  },
+  {
+    "name": "Harry Potter y el prisionero de Azkaban (2004)",
+    "category": "4k",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBph7rrwtxUuDxyZVDQtbP2H0sM.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/46238.mkv"
+  },
+  {
+    "name": "Volver al Futuro (1985)",
+    "category": "4k",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/acNRGwBz22E2m5OEWOhS8RiqiXM.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/46297.mkv"
+  },
+  {
+    "name": "Volver al Futuro 2 (1989)",
+    "category": "4k",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygKImi2jzm0j00W3JXBxvxdUM8n.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/46298.mkv"
+  },
+  {
+    "name": "Volver al Futuro 3 (1990)",
+    "category": "4k",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjT0eZtsU3A3OvqGmr37XyPf3Ey.jpg",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/46299.mkv"
   }
+
+
+
+
+    
+]
 ]
