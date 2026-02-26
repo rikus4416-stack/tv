@@ -292,6 +292,72 @@
     "category": "CULTURA",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Channel_logo.svg/512px-History_Channel_logo.svg.png",
     "url": "http://tv.diablotv.net:8080/live/112DDaNocolladl34ksSGatoPeroo/mEDTLeyQ2T/9812.ts"
+  },
+  {
+    "name": "Telefe HD (L)",
+    "url": "http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/157589",
+    "logo": "https://i.postimg.cc/5NVzPbQ6/Proyecto-X-Argentina-(21).png",
+    "category": "TV ARG"
+  },
+  {
+    "name": "El Trece HD (L)",
+    "url": "http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/157591",
+    "logo": "https://i.postimg.cc/zBHhQfF4/Proyecto-X-Argentina-(4).png",
+    "category": "TV ARG"
+  },
+  {
+    "name": "America TV HD (L)",
+    "url": "http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/157612",
+    "logo": "https://i.postimg.cc/d01r86km/Proyecto-X-Argentina-(1).png",
+    "category": "TV ARG"
+  },
+  {
+    "name": "El Nueve HD (L)",
+    "url": "http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/157621",
+    "logo": "https://i.postimg.cc/3R0GqwZT/Proyecto-X-Argentina-(6).png",
+    "category": "TV ARG"
+  },
+  {
+    "name": "TyC Sports HD (L)",
+    "url": "http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/157583",
+    "logo": "https://i.postimg.cc/GpN0rbZz/Proyecto-X-Argentina-(28).png",
+    "category": "TV ARG"
+  },
+  {
+    "name": "ESPN HD",
+    "url": "http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/157558",
+    "logo": "https://i.postimg.cc/T1rDRHFT/Proyecto-X-Argentina-(12).png",
+    "category": "TV ARG"
+  },
+  {
+    "name": "ESPN 2 HD",
+    "url": "http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/157559",
+    "logo": "https://i.postimg.cc/59vvq60L/Proyecto-X-Argentina-(13).png",
+    "category": "TV ARG"
+  },
+  {
+    "name": "ESPN 3 HD",
+    "url": "http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/157560",
+    "logo": "https://i.postimg.cc/jqNNQL5z/Proyecto-X-Argentina-(14).png",
+    "category": "TV ARG"
+  },
+  {
+    "name": "ESPN Premium HD",
+    "url": "http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/157562",
+    "logo": "https://i.postimg.cc/T1rDRHFT/Proyecto-X-Argentina-(12).png",
+    "category": "TV ARG"
+  },
+  {
+    "name": "TNT Sports HD (L)",
+    "url": "http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/157585",
+    "logo": "https://i.postimg.cc/7Yn2ddSJ/Proyecto-X-Argentina-(25).png",
+    "category": "TV ARG"
+  },
+  {
+    "name": "Volver",
+    "url": "http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/157581",
+    "logo": "https://i.postimg.cc/TPS8GTZc/Proyecto-X-Argentina-(29).png",
+    "category": "TV ARG"
   }
 
 
