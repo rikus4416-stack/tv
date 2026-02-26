@@ -57,5 +57,59 @@
     "category": "DOBLAJE AR",
     "imageUrl": "https://image.tmdb.org/t/p/w500/8XU8Y9X7Z8X9X7Z8X9X7Z8X9X7Z.jpg",
     "url": "https://drive.google.com/uc?export=download&id=1X-oM_e_3V8R_R_R0r7P7-F8R8R_R8R_R"
+  },
+  {
+    "name": "¿Qué Pasó Ayer?",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/160294.mkv",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZaaJQEi7n3mrBct1H3l2g45Ijb.jpg",
+    "category": "VOD CINE"
+  },
+  {
+    "name": "¿Qué Pasó Ayer? Parte II",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/160295.mkv",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzaVnS19yDTkkGZRlf89sND75i7.jpg",
+    "category": "VOD CINE"
+  },
+  {
+    "name": "¿Qué Pasó Ayer? Parte III (2013)",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/160296.mkv",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1goOfrB3ZRnoJenHHIDqiskMi9q.jpg",
+    "category": "VOD CINE"
+  },
+  {
+    "name": "Virgen a los 40 (2005)",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/149811.mkv",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zdvw34l1lInfOPh5dOURt41BPmF.jpg",
+    "category": "VOD CINE"
+  },
+  {
+    "name": "Shrek (2001)",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/2841.mkv",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5G1RjHMSt7nYONqCqSwFlP87Ckk.jpg",
+    "category": "VOD CINE"
+  },
+  {
+    "name": "Shrek 2 (2004)",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/2842.mkv",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/knRt4E8KyfwEv0SVu9LsLvD28IQ.jpg",
+    "category": "VOD CINE"
+  },
+  {
+    "name": "Shrek 4: Para Siempre (2010)",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/2843.mkv",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MyKXb1ozCfq61tPNKpIggwvP6J.jpg",
+    "category": "VOD CINE"
+  },
+  {
+    "name": "Zoolander 2 (2016)",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/1683.mkv",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rYQcWBFLLBzd5BXknr7Nqt7NOuC.jpg",
+    "category": "VOD CINE"
+  },
+  {
+    "name": "Baywatch (2017)",
+    "url": "http://tv.diablotv.net:8080/movie/HildaL8751/2caa3f3543cc/7242.mkv",
+    "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPifsnK3ui76Cq7xMDe1AVlrA0k.jpg",
+    "category": "VOD CINE"
   }
 ]
