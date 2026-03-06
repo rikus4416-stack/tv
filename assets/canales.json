@@ -310,8 +310,67 @@
     "url": "http://1tv41.icu:8080/live/Gratitude@ogbtv.com/0128@1802/164881.ts",
     "imageUrl": "https://i.postimg.cc/d01r86km/Proyecto-X-Argentina-(1).png",
     "category": "PRUEBA"
+  },
+  {
+    "name": "HBO 2 (AR)",
+    "category": "LATINOS",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/HBO_2_logo.svg/1200px-HBO_2_logo.svg.png",
+    "url": "http://zerotwo.access.ly:2096/Jack25/7623981405/775878"
+  },
+  {
+    "name": "HBO FAMILY (AR)",
+    "category": "LATINOS",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/HBO_Family_logo.svg/1200px-HBO_Family_logo.svg.png",
+    "url": "http://zerotwo.access.ly:2096/Jack25/7623981405/775879"
+  },
+  {
+    "name": "HBO MUNDI",
+    "category": "LATINOS",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/HBO_Mundi_logo.svg/1200px-HBO_Mundi_logo.svg.png",
+    "url": "http://zerotwo.access.ly:2096/Jack25/7623981405/775828"
+  },
+  {
+    "name": "HBO PLUS",
+    "category": "LATINOS",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/HBO_Plus_logo.svg/1200px-HBO_Plus_logo.svg.png",
+    "url": "http://zerotwo.access.ly:2096/Jack25/7623981405/775829"
+  },
+  {
+    "name": "HBO POP",
+    "category": "LATINOS",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Pop_logo.svg/1200px-HBO_Pop_logo.svg.png",
+    "url": "http://zerotwo.access.ly:2096/Jack25/7623981405/775830"
+  },
+  {
+    "name": "HBO SIGNATURE",
+    "category": "LATINOS",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/HBO_Signature_logo.svg/1200px-HBO_Signature_logo.svg.png",
+    "url": "http://zerotwo.access.ly:2096/Jack25/7623981405/775831"
+  },
+  {
+    "name": "HBO XTREME",
+    "category": "LATINOS",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Xtreme_logo.svg/1200px-HBO_Xtreme_logo.svg.png",
+    "url": "http://zerotwo.access.ly:2096/Jack25/7623981405/775832"
+  },
+  {
+    "name": "HISTORY 2 (AR)",
+    "category": "LATINOS",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/H2_Logo.svg/1200px-H2_Logo.svg.png",
+    "url": "http://zerotwo.access.ly:2096/Jack25/7623981405/775877"
+  },
+  {
+    "name": "CINEMAX",
+    "category": "LATINOS",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Cinemax_logo_2011.svg/1200px-Cinemax_logo_2011.svg.png",
+    "url": "http://zerotwo.access.ly:2096/Jack25/7623981405/775897"
+  },
+  {
+    "name": "SPACE",
+    "category": "LATINOS",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_Space_Logo.png/1200px-Canal_Space_Logo.png",
+    "url": "http://zerotwo.access.ly:2096/Jack25/7623981405/775852"
   }
-
 
 
 ]
