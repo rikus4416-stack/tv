@@ -370,37 +370,5 @@
     "category": "LATINOS",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_Space_Logo.png/1200px-Canal_Space_Logo.png",
     "url": "http://zerotwo.access.ly:2096/Jack25/7623981405/775852"
-  },
-  {
-    "name": "CITY SPORT (Eventos)",
-    "url": "https://srv3.zcast.com.br/citysport/citysport/playlist.m3u8",
-    "imageUrl": "https://i.imgur.com/8N0vY5Z.png",
-    "category": "PRU"
-  },
-  {
-    "name": "DEPORTES 24 (Relay)",
-    "url": "https://stream.arcast.net:4443/deportestv/deportestv/playlist.m3u8",
-    "imageUrl": "https://i.imgur.com/GpN0rbZz/Proyecto-X-Argentina-(28).png",
-    "category": "PRU"
-  },
-  {
-    "name": "PANC TV (Cine/Premium)",
-    "url": "https://srv3.zcast.com.br/panctv/panctv/playlist.m3u8",
-    "imageUrl": "https://i.imgur.com/7YjA2hC.png",
-    "category": "PRU"
-  },
-  {
-    "name": "MÁXIMA PREMIUM",
-    "url": "https://srv3.zcast.com.br/maximatv/maximatv/playlist.m3u8",
-    "imageUrl": "https://i.imgur.com/79E9f9O.png",
-    "category": "PRU"
-  },
-  {
-    "name": "GEN TV (A veces Premium)",
-    "url": "https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8",
-    "imageUrl": "https://gentvoficial.com/wp-content/uploads/2025/09/cropped-GENT-LOGO-192x192.png",
-    "category": "PRU"
   }
-
-
 ]
