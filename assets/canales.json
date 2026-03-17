@@ -376,5 +376,65 @@
     "category": "LATINOS",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_Space_Logo.png/1200px-Canal_Space_Logo.png",
     "url": "http://zerotwo.access.ly:2096/Jack25/7623981405/775852"
+  },
+  {
+    "name": "ESPN 1 ARG",
+    "url": "http://tvpromas.com:2082/victoriveros/uyjcpvKjZLYu/51157",
+    "imageURL": "https://i.postimg.cc/gkRW1qcD/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png",
+    "category": "DEPORTES"
+  },
+  {
+    "name": "ESPN 1 ARG HD",
+    "url": "http://tvpromas.com:2082/victoriveros/uyjcpvKjZLYu/51155",
+    "imageURL": "https://i.postimg.cc/gkRW1qcD/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png",
+    "category": "DEPORTES"
+  },
+  {
+    "name": "ESPN 1 ARG FHD",
+    "url": "http://tvpromas.com:2082/victoriveros/uyjcpvKjZLYu/51154",
+    "imageURL": "https://i.postimg.cc/gkRW1qcD/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png",
+    "category": "DEPORTES"
+  },
+  {
+    "name": "ESPN 2 ARG",
+    "url": "http://tvpromas.com:2082/victoriveros/uyjcpvKjZLYu/51158",
+    "imageURL": "https://i.postimg.cc/DZK8nWWp/espn2.png",
+    "category": "DEPORTES"
+  },
+  {
+    "name": "ESPN 2 ARG HD",
+    "url": "http://tvpromas.com:2082/victoriveros/uyjcpvKjZLYu/51156",
+    "imageURL": "https://i.postimg.cc/DZK8nWWp/espn2.png",
+    "category": "DEPORTES"
+  },
+  {
+    "name": "ESPN 2 ARG FHD",
+    "url": "http://tvpromas.com:2082/victoriveros/uyjcpvKjZLYu/5600",
+    "imageURL": "https://i.postimg.cc/DZK8nWWp/espn2.png",
+    "category": "DEPORTES"
+  },
+  {
+    "name": "ESPN 3 ARG",
+    "url": "http://tvpromas.com:2082/victoriveros/uyjcpvKjZLYu/5601",
+    "imageURL": "https://i.postimg.cc/wvc3v6Lq/espn3.png",
+    "category": "DEPORTES"
+  },
+  {
+    "name": "ESPN 3 ARG HD",
+    "url": "http://tvpromas.com:2082/victoriveros/uyjcpvKjZLYu/31026",
+    "imageURL": "https://i.postimg.cc/wvc3v6Lq/espn3.png",
+    "category": "DEPORTES"
+  },
+  {
+    "name": "ESPN Premium Argentina",
+    "url": "http://tvpromas.com:2082/victoriveros/uyjcpvKjZLYu/6463",
+    "imageURL": "https://r2.thesportsdb.com/images/media/channel/logo/7zpcyf1707916649.png",
+    "category": "DEPORTES"
+  },
+  {
+    "name": "ESPN Premium Argentina HD",
+    "url": "http://tvpromas.com:2082/victoriveros/uyjcpvKjZLYu/3085",
+    "imageURL": "https://r2.thesportsdb.com/images/media/channel/logo/7zpcyf1707916649.png",
+    "category": "DEPORTES"
   }
 ]
