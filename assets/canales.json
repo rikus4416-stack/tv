@@ -382,5 +382,41 @@
   "url": "http://tvpromas.com:2082/victoriveros/uyjcpvKjZLYu/3085.ts",
   "imageUrl": "https://r2.thesportsdb.com/images/media/channel/logo/7zpcyf1707916649.png",
   "category": "DEPORTES"
- }
+ },
+ {
+    "name": "Fox Sports 1 ARG",
+    "url": "http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/9575",
+    "imageUrl": "https://i.postimg.cc/zX39S9zW/fox-sports-1.png",
+    "category": "DEPORTES"
+  },
+  {
+    "name": "Fox Sports 1 ARG OP 2",
+    "url": "http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/9576",
+    "imageUrl": "https://i.postimg.cc/zX39S9zW/fox-sports-1.png",
+    "category": "DEPORTES"
+  },
+  {
+    "name": "Fox Sports 2 ARG",
+    "url": "http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/179531",
+    "imageUrl": "https://static.wikia.nocookie.net/logopedia/images/9/9a/FOX_Sports_2_Argentina_%282023%29.png/revision/latest?cb=20230207140157&path-prefix=es",
+    "category": "DEPORTES"
+  },
+  {
+    "name": "Fox Sports 2 ARG OP 2",
+    "url": "http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/179524",
+    "imageUrl": "https://static.wikia.nocookie.net/logopedia/images/9/9a/FOX_Sports_2_Argentina_%282023%29.png/revision/latest?cb=20230207140157&path-prefix=es",
+    "category": "DEPORTES"
+  },
+  {
+    "name": "Fox Sports 3 ARG",
+    "url": "http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/9588",
+    "imageUrl": "https://i.postimg.cc/6pM6mH5y/fox-sports-3.png",
+    "category": "DEPORTES"
+  },
+  {
+    "name": "Fox Sports 3 ARG OP 2",
+    "url": "http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/9589",
+    "imageUrl": "https://i.postimg.cc/6pM6mH5y/fox-sports-3.png",
+    "category": "DEPORTES"
+  }
 ]
