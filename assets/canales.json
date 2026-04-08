@@ -418,5 +418,23 @@
     "url": "http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/9589",
     "imageUrl": "https://i.postimg.cc/6pM6mH5y/fox-sports-3.png",
     "category": "DEPORTES"
+  },
+  {
+  "name": "DSports 1 ARG (Directv)",
+  "url": "http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/9560",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Dsports_logo.png/512px-Dsports_logo.png",
+  "category": "DEPORTES"
+},
+{
+    "name": "DSports 2 ARG",
+    "url": "http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/9566",
+    "imageUrl": "https://i.postimg.cc/9Fm87m4p/dsports2.png",
+    "category": "DEPORTES"
+  },
+  {
+    "name": "DSports 2 ARG OP 2",
+    "url": "http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/9567",
+    "imageUrl": "https://i.postimg.cc/9Fm87m4p/dsports2.png",
+    "category": "DEPORTES"
   }
 ]
