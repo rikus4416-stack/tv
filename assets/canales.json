@@ -436,5 +436,300 @@
     "url": "http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/9567",
     "imageUrl": "https://i.postimg.cc/9Fm87m4p/dsports2.png",
     "category": "DEPORTES"
+  },
+  {
+    "name": "Panc TV (720p) [Not 24/7]",
+    "url": "https://panel.host-live.com:19360/81500/81500.m3u8",
+    "imageUrl": "https://i.imgur.com/u1dnEVv.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "Locomotion TV (480p) [Not 24/7]",
+    "url": "http://51.222.85.85:81/hls/loco/index.m3u8",
+    "imageUrl": "https://i.imgur.com/1CftDPB.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "Neox TV (480p)",
+    "url": "https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8",
+    "imageUrl": "https://i.imgur.com/eIX71c9.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "Disney Channel Latin America (480p)",
+    "url": "http://168.181.122.234:8000/play/a038/index.m3u8",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "Disney Junior Latin America (480p)",
+    "url": "http://168.181.122.234:8000/play/a037/index.m3u8",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/512px-Disney_Jr._2024.svg.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "Global TV (1080p)",
+    "url": "https://stmv.video.gmpro.top/global/global/playlist.m3u8",
+    "imageUrl": "https://i.imgur.com/z6srIMD.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "Golden TV (240p) [Not 24/7]",
+    "url": "https://bozztv.com/gusa/gusa-goldentv/index.m3u8",
+    "imageUrl": "https://i.imgur.com/NNd1lYl.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "Filmstream",
+    "url": "https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8",
+    "imageUrl": "https://i.imgur.com/DTRPV6B.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "TNT Sports AR HD OP 1",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/459",
+    "imageUrl": "https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "TNT Sports AR HD OP 2",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/460",
+    "imageUrl": "https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "TNT Sports AR HD OP 3",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/461",
+    "imageUrl": "https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "TyC Sports AR HD OP 1",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/554",
+    "imageUrl": "https://i.postimg.cc/YSSq7fVJ/tycsports.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "TyC Sports AR HD OP 2",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/462",
+    "imageUrl": "https://i.postimg.cc/YSSq7fVJ/tycsports.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "TyC Sports AR HD OP 3",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/555",
+    "imageUrl": "https://i.postimg.cc/YSSq7fVJ/tycsports.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "ESPN AR HD OP 1",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/518",
+    "imageUrl": "https://i.postimg.cc/KvFR3FLr/espn.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "ESPN AR HD OP 2",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/520",
+    "imageUrl": "https://i.postimg.cc/KvFR3FLr/espn.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "ESPN 2 AR HD OP 1",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/506",
+    "imageUrl": "https://i.postimg.cc/v82q167s/ESPN2.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "ESPN 2 AR HD OP 2",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/507",
+    "imageUrl": "https://i.postimg.cc/v82q167s/ESPN2.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "ESPN 3 AR HD",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/513",
+    "imageUrl": "https://i.postimg.cc/y8DMj3Cm/espn3.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "ESPN 4 LAT HD",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/517",
+    "imageUrl": "https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "Fox Sports 1 AR HD OP 1",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/456",
+    "imageUrl": "https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "Fox Sports 1 AR HD OP 2",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/457",
+    "imageUrl": "https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "Fox Sports 1 AR HD OP 3",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/458",
+    "imageUrl": "https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "Fox Sports 1 AR HD OP 4",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/525",
+    "imageUrl": "https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "ESPN 5 HD",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/526",
+    "imageUrl": "https://i.ibb.co/g4Nd3fs/ESPN-5-logo-svg.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "ESPN Premium HD OP 1",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/542",
+    "imageUrl": "https://i.ibb.co/M57Q0Kv/espn-premium2.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "ESPN Premium HD OP 2",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/543",
+    "imageUrl": "https://i.ibb.co/M57Q0Kv/espn-premium2.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "ESPN Premium HD OP 3",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/544",
+    "imageUrl": "https://i.ibb.co/M57Q0Kv/espn-premium2.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "ESPN Premium HD OP 4",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/545",
+    "imageUrl": "https://i.ibb.co/M57Q0Kv/espn-premium2.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "DSports AR HD OP 1",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/480",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "DSports AR HD OP 2",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/483",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "DSports 2 AR HD OP 1",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/473",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "DSports 2 AR HD OP 2",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/474",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "DSports+ AR HD OP 1",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/467",
+    "imageUrl": "https://i.postimg.cc/7Lb92ddX/directvsports.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "DSports+ AR HD OP 2",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/466",
+    "imageUrl": "https://i.postimg.cc/7Lb92ddX/directvsports.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "DSports+ AR HD OP 3",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/468",
+    "imageUrl": "https://i.postimg.cc/7Lb92ddX/directvsports.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "América TV FHD",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/15814",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "América TV HD",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/61552",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "El Nueve FHD",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/61569",
+    "imageUrl": "https://www.seekpng.com/png/full/345-3453836_ar-canal-9-el-nueve-el-nueve-logo.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "El Nueve HD",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/15881",
+    "imageUrl": "https://www.seekpng.com/png/full/345-3453836_ar-canal-9-el-nueve-el-nueve-logo.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "El Trece HD",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/15905",
+    "imageUrl": "http://daleplay.biz:8080/images/65759551abad6cb24ee8e410036cb72e.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "El Trece SD",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/16158",
+    "imageUrl": "http://daleplay.biz:8080/images/65759551abad6cb24ee8e410036cb72e.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "TV Pública FHD",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/16159",
+    "imageUrl": "http://daleplay.biz:8080/images/78c7c06a9abed64d546c2a3e65236269.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "TV Pública HD",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/16160",
+    "imageUrl": "http://daleplay.biz:8080/images/78c7c06a9abed64d546c2a3e65236269.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "Telefe FHD",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/61545",
+    "imageUrl": "https://cdn.mitvstatic.com/channels/ar_telefe_m.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "Telefe HD",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/61544",
+    "imageUrl": "https://cdn.mitvstatic.com/channels/ar_telefe_m.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "Telefe SD",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/53225",
+    "imageUrl": "https://cdn.mitvstatic.com/channels/ar_telefe_m.png",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "Crónica TV HD",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/61584",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1477725477850783750/DVygjO5R_400x400.jpg",
+    "category": "VEGETA TV"
+  },
+  {
+    "name": "Crónica TV SD",
+    "url": "http://23.153.217.158:8080/56978782799/2799x/61583",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1477725477850783750/DVygjO5R_400x400.jpg",
+    "category": "VEGETA TV"
   }
+
 ]
