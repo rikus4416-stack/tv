@@ -1,1 +1,429 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HJkSz2U.png" group-title="CINE",Ciudad Magica TV
+https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvWr_nyZA_TBQu9o5aGgkMOn63QLnp8UcAQg&s" group-title="CINE",NEO TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cJHP7bU.png" group-title="NOTICIAS",El Nueve
+http://107.152.39.199:8030/hls/canal7.m3u8
+#EXTINF:-1 tvg-logo="https://gentvoficial.com/wp-content/uploads/2025/09/cropped-GENT-LOGO-192x192.png" group-title="CINE",GEN TV
+https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OI97Sgq.png" group-title="NOTICIAS",Canal 13
+https://stream.arcast.net:4443/mp/mp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/770/381/png-clipart-disney-plus-logo-icons-logos-emojis-iconic-brands-thumbnail.png" group-title="KIDS",Disney
+http://201.230.121.186:8000/play/a0fb/index.m3u8
+#EXTINF:-1 tvg-logo="DADAUDAUDH" group-title="CINE",Cosmos TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/960px-Telemax.png" group-title="NOTICIAS",Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2EUIL2.png" group-title="NOTICIAS",Sicar TV
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TYC Sports
+https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="CINE",Sony
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://filmfilicos.com/wp-content/uploads/2025/05/evolucion-del-cine-de-terror.png" group-title="CINE",Cine Terror
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-logo="https://www.mega-cine.com/wp-content/uploads/2012/12/logo_megavideo1-300x81.png" group-title="CINE",MEGACINE
+https://mlb.essastream.com:8081/megacinetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE",FX CINEMA
+http://38.199.6.1:17001/play/a04u/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jP19sGt.png" group-title="CINE",Pelis TV
+https://top-movies-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_name=top-movies-rakuten-tv_es&ads.rtv_content_id=5983&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=abba429e-eb63-4fcd-9759-e538d1e203f2&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=5983&publishing_platform_id=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vUHAWAJ.png" group-title="CULTURA",Naturaleza TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=outdoors&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusNaturalezaSpanish&ads.content_livestream=0&ads.csid=zeus_es_indigeniusnaturalezaspanish_ssai&ads.gam_correlator=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3688&ads.rakuten_streaming_id=7f4c978d-302f-44c1-9c9c-f96e5b37e618&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883049&ads.xumo_contentId=2161&ads.xumo_contentName=IndigeniusNaturalezaSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2161&ads.xumo_providerName=naturaleza-spa-rakutentv&ads.xumo_streamId=88883049
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wQ33T78.png" group-title="NOTICIAS",FENIX FM
+https://stmvideo3.livecastv.com/fenixrioja/fenixrioja/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://images.v-s.io/ladescargatv.png" group-title="CINE",La Descarga TV (Cine)
+https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Pluto_TV_logo.svg/512px-Pluto_TV_logo.svg.png" group-title="CINE",Pluto TV Comedia
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?appName=web&deviceType=web
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/icono-cruz-cristiana-estilo-plano-ilustracion_476612-429.jpg" group-title="RELIGIOSO",TV Religiosa
+https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NVzPbQ6/Proyecto-X-Argentina-(21).png" group-title="TV ARG",Telefe HD (L)
+http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/157589
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBHhQfF4/Proyecto-X-Argentina-(4).png" group-title="TV ARG",El Trece HD (L)
+http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/157591
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d01r86km/Proyecto-X-Argentina-(1).png" group-title="TV ARG",America TV HD (L)
+http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/157612
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3R0GqwZT/Proyecto-X-Argentina-(6).png" group-title="TV ARG",El Nueve HD (L)
+http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/157621
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpN0rbZz/Proyecto-X-Argentina-(28).png" group-title="TV ARG",TyC Sports HD (L)
+http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/157583
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1rDRHFT/Proyecto-X-Argentina-(12).png" group-title="TV ARG",ESPN HD
+http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/157558
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59vvq60L/Proyecto-X-Argentina-(13).png" group-title="TV ARG",ESPN 2 HD
+http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/157559
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqNNQL5z/Proyecto-X-Argentina-(14).png" group-title="TV ARG",ESPN 3 HD
+http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/157560
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1rDRHFT/Proyecto-X-Argentina-(12).png" group-title="TV ARG",ESPN Premium HD
+http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/157562
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Yn2ddSJ/Proyecto-X-Argentina-(25).png" group-title="TV ARG",TNT Sports HD (L)
+http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/157585
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPS8GTZc/Proyecto-X-Argentina-(29).png" group-title="TV ARG",Volver
+http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/157581
+#EXTINF:-1 tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/hbo-logo-01-g.jpg" group-title="TV ARG",HBO HD Premium
+http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/9666
+#EXTINF:-1 tvg-logo="https://www.shopfortaleza.com.br/wp-content/uploads/2019/02/HBO2.jpg" group-title="TV ARG",HBO 2 HD
+http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/9672
+#EXTINF:-1 tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/07/fx.jpg" group-title="TV ARG",STAR Channel HD
+http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/9723
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="TV ARG",CineCanal HD
+http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/9629
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTapWv0ZtvCDDJbWxrh_B-9xTzIpgcamrL0Hl7QU6_hzmT9YorrLtKqi1KOf99Rdj2fjZU&usqp=CAU" group-title="TV ARG",Cinemax HD
+http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/9633
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6wvhPq5IaU0/XatGn62vaSI/AAAAAAAAAbg/Ag7mkwAVGCM4eBE7PoLyqAUwkyHiFFAIwCLcBGAsYHQ/s200/42.png" group-title="TV ARG",Space HD
+http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/9717
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Mm4RcdZlydc/XatpNZ2eSDI/AAAAAAAAAek/B1kOZW_TEv0GakL-m6tUYEmi592FBiSEQCLcBGAsYHQ/s200/52.png" group-title="TV ARG",Studio Universal HD
+http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/9732
+#EXTINF:-1 tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/07/fx.jpg" group-title="TV ARG",FX HD
+http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/9653
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU0Jlpo6Q-pz4sRAKzNcgMkA_A75_A6yPVSA&usqp=CAU" group-title="TV ARG",Paramount HD
+http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/9705
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Ess4VrXYpAQ/XatGnkceQRI/AAAAAAAAAbc/OqfYrJcB2UcrnplBlalhQncSDVbKkP2fwCLcBGAsYHQ/s200/41.png" group-title="TV ARG",Sony Channel HD
+http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/9712
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-EGNc3XiW2mg/Xaoka4Z2TQI/AAAAAAAAAWU/WzeyBpAFtHw2hkqTpQi6FZCazB0eVIlHACLcBGAsYHQ/s200/7.png" group-title="TV ARG",Warner Channel HD
+http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/9636
+#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/78c7c06a9abed64d546c2a3e65236269.png" group-title="DEPORTES",TV Publica
+http://ultrax.online/live/kevincarbajal/k87y6/16159.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cJHP7bU.png" group-title="PRUEBA",EL NUEVE HD
+http://1tv41.icu:8080/live/Gratitude@ogbtv.com/0128@1802/164869.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NVzPbQ6/Proyecto-X-Argentina-(21).png" group-title="PRUEBA",TELEFE INTERNACIONAL HD
+http://1tv41.icu:8080/live/Gratitude@ogbtv.com/0128@1802/164870.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HJkSz2U.png" group-title="PRUEBA",CINE ARGENTINO
+http://1tv41.icu:8080/live/Gratitude@ogbtv.com/0128@1802/164871.ts
+#EXTINF:-1 tvg-logo="https://www.ipuntotv.com/IMAGES/TN%20logo%20nuevo.png" group-title="PRUEBA",TN NOTICIAS
+http://1tv41.icu:8080/live/Gratitude@ogbtv.com/0128@1802/164873.ts
+#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/ffed5e1532773451305c8a07b180d1d5.png" group-title="PRUEBA",CRONICA HD
+http://1tv41.icu:8080/live/Gratitude@ogbtv.com/0128@1802/164875.ts
+#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/bfa0e2b6f1134e36360a1261eee7eb9c.png" group-title="PRUEBA",C5N HD
+http://1tv41.icu:8080/live/Gratitude@ogbtv.com/0128@1802/164876.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vUHAWAJ.png" group-title="PRUEBA",ENCUENTRO HD
+http://1tv41.icu:8080/live/Gratitude@ogbtv.com/0128@1802/164878.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wQ33T78.png" group-title="PRUEBA",IP NOTICIAS HD
+http://1tv41.icu:8080/live/Gratitude@ogbtv.com/0128@1802/164879.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hh0F9D6/FOXSPORTSPREMIUM.jpg" group-title="PRUEBA",GARAGE TV HD
+http://zerotwo.access.ly:2096/Jack25/7623981405/775879
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d01r86km/Proyecto-X-Argentina-(1).png" group-title="PRUEBA",AMERICA TV HD
+http://1tv41.icu:8080/live/Gratitude@ogbtv.com/0128@1802/164881.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/HBO_2_logo.svg/1200px-HBO_2_logo.svg.png" group-title="LATINOS",HBO 2 (AR)
+http://zerotwo.access.ly:2096/Jack25/7623981405/775878
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/HBO_Family_logo.svg/1200px-HBO_Family_logo.svg.png" group-title="LATINOS",HBO FAMILY (AR)
+http://zerotwo.access.ly:2096/Jack25/7623981405/775879
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/HBO_Mundi_logo.svg/1200px-HBO_Mundi_logo.svg.png" group-title="LATINOS",HBO MUNDI
+http://zerotwo.access.ly:2096/Jack25/7623981405/775828
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/HBO_Plus_logo.svg/1200px-HBO_Plus_logo.svg.png" group-title="LATINOS",HBO PLUS
+http://zerotwo.access.ly:2096/Jack25/7623981405/775829
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Pop_logo.svg/1200px-HBO_Pop_logo.svg.png" group-title="LATINOS",HBO POP
+http://zerotwo.access.ly:2096/Jack25/7623981405/775830
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/HBO_Signature_logo.svg/1200px-HBO_Signature_logo.svg.png" group-title="LATINOS",HBO SIGNATURE
+http://zerotwo.access.ly:2096/Jack25/7623981405/775831
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Xtreme_logo.svg/1200px-HBO_Xtreme_logo.svg.png" group-title="LATINOS",HBO XTREME
+http://zerotwo.access.ly:2096/Jack25/7623981405/775832
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/H2_Logo.svg/1200px-H2_Logo.svg.png" group-title="LATINOS",HISTORY 2 (AR)
+http://zerotwo.access.ly:2096/Jack25/7623981405/775877
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Cinemax_logo_2011.svg/1200px-Cinemax_logo_2011.svg.png" group-title="LATINOS",CINEMAX
+http://zerotwo.access.ly:2096/Jack25/7623981405/775897
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_Space_Logo.png/1200px-Canal_Space_Logo.png" group-title="LATINOS",SPACE
+http://zerotwo.access.ly:2096/Jack25/7623981405/775852
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7zpcyf1707916649.png" group-title="DEPORTES",ESPN Premium HD (Test)
+http://tvpromas.com:2082/victoriveros/uyjcpvKjZLYu/3085.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zX39S9zW/fox-sports-1.png" group-title="DEPORTES",Fox Sports 1 ARG
+http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/9575
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zX39S9zW/fox-sports-1.png" group-title="DEPORTES",Fox Sports 1 ARG OP 2
+http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/9576
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/FOX_Sports_2_Argentina_%282023%29.png/revision/latest?cb=20230207140157&path-prefix=es" group-title="DEPORTES",Fox Sports 2 ARG
+http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/179531
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/FOX_Sports_2_Argentina_%282023%29.png/revision/latest?cb=20230207140157&path-prefix=es" group-title="DEPORTES",Fox Sports 2 ARG OP 2
+http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/179524
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pM6mH5y/fox-sports-3.png" group-title="DEPORTES",Fox Sports 3 ARG
+http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/9588
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pM6mH5y/fox-sports-3.png" group-title="DEPORTES",Fox Sports 3 ARG OP 2
+http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/9589
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Dsports_logo.png/512px-Dsports_logo.png" group-title="DEPORTES",DSports 1 ARG (Directv)
+http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/9560
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Fm87m4p/dsports2.png" group-title="DEPORTES",DSports 2 ARG
+http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/9566
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Fm87m4p/dsports2.png" group-title="DEPORTES",DSports 2 ARG OP 2
+http://tv.diablotv.net:8080/HildaL8751/2caa3f3543cc/9567
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u1dnEVv.png" group-title="VEGETA TV",Panc TV (720p) [Not 24/7]
+https://panel.host-live.com:19360/81500/81500.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="VEGETA TV",Locomotion TV (480p) [Not 24/7]
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="VEGETA TV",Neox TV (480p)
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" group-title="VEGETA TV",Disney Channel Latin America (480p)
+http://168.181.122.234:8000/play/a038/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/512px-Disney_Jr._2024.svg.png" group-title="VEGETA TV",Disney Junior Latin America (480p)
+http://168.181.122.234:8000/play/a037/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6srIMD.png" group-title="VEGETA TV",Global TV (1080p)
+https://stmv.video.gmpro.top/global/global/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="VEGETA TV",Golden TV (240p) [Not 24/7]
+https://bozztv.com/gusa/gusa-goldentv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="VEGETA TV",Filmstream
+https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="VEGETA TV",TNT Sports AR HD OP 1
+http://23.153.217.158:8080/56978782799/2799x/459
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="VEGETA TV",TNT Sports AR HD OP 2
+http://23.153.217.158:8080/56978782799/2799x/460
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="VEGETA TV",TNT Sports AR HD OP 3
+http://23.153.217.158:8080/56978782799/2799x/461
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="VEGETA TV",TyC Sports AR HD OP 1
+http://23.153.217.158:8080/56978782799/2799x/554
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="VEGETA TV",TyC Sports AR HD OP 2
+http://23.153.217.158:8080/56978782799/2799x/462
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="VEGETA TV",TyC Sports AR HD OP 3
+http://23.153.217.158:8080/56978782799/2799x/555
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="VEGETA TV",ESPN AR HD OP 1
+http://23.153.217.158:8080/56978782799/2799x/518
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="VEGETA TV",ESPN AR HD OP 2
+http://23.153.217.158:8080/56978782799/2799x/520
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="VEGETA TV",ESPN 2 AR HD OP 1
+http://23.153.217.158:8080/56978782799/2799x/506
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="VEGETA TV",ESPN 2 AR HD OP 2
+http://23.153.217.158:8080/56978782799/2799x/507
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="VEGETA TV",ESPN 3 AR HD
+http://23.153.217.158:8080/56978782799/2799x/513
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" group-title="VEGETA TV",ESPN 4 LAT HD
+http://23.153.217.158:8080/56978782799/2799x/517
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" group-title="VEGETA TV",Fox Sports 1 AR HD OP 1
+http://23.153.217.158:8080/56978782799/2799x/456
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" group-title="VEGETA TV",Fox Sports 1 AR HD OP 2
+http://23.153.217.158:8080/56978782799/2799x/457
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" group-title="VEGETA TV",Fox Sports 1 AR HD OP 3
+http://23.153.217.158:8080/56978782799/2799x/458
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" group-title="VEGETA TV",Fox Sports 1 AR HD OP 4
+http://23.153.217.158:8080/56978782799/2799x/525
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g4Nd3fs/ESPN-5-logo-svg.png" group-title="VEGETA TV",ESPN 5 HD
+http://23.153.217.158:8080/56978782799/2799x/526
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="VEGETA TV",ESPN Premium HD OP 1
+http://23.153.217.158:8080/56978782799/2799x/542
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="VEGETA TV",ESPN Premium HD OP 2
+http://23.153.217.158:8080/56978782799/2799x/543
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="VEGETA TV",ESPN Premium HD OP 3
+http://23.153.217.158:8080/56978782799/2799x/544
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="VEGETA TV",ESPN Premium HD OP 4
+http://23.153.217.158:8080/56978782799/2799x/545
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="VEGETA TV",DSports AR HD OP 1
+http://23.153.217.158:8080/56978782799/2799x/480
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="VEGETA TV",DSports AR HD OP 2
+http://23.153.217.158:8080/56978782799/2799x/483
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="VEGETA TV",DSports 2 AR HD OP 1
+http://23.153.217.158:8080/56978782799/2799x/473
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="VEGETA TV",DSports 2 AR HD OP 2
+http://23.153.217.158:8080/56978782799/2799x/474
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="VEGETA TV",DSports+ AR HD OP 1
+http://23.153.217.158:8080/56978782799/2799x/467
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="VEGETA TV",DSports+ AR HD OP 2
+http://23.153.217.158:8080/56978782799/2799x/466
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="VEGETA TV",DSports+ AR HD OP 3
+http://23.153.217.158:8080/56978782799/2799x/468
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="VEGETA TV",América TV FHD
+http://23.153.217.158:8080/56978782799/2799x/15814
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="VEGETA TV",América TV HD
+http://23.153.217.158:8080/56978782799/2799x/61552
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/345-3453836_ar-canal-9-el-nueve-el-nueve-logo.png" group-title="VEGETA TV",El Nueve FHD
+http://23.153.217.158:8080/56978782799/2799x/61569
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/345-3453836_ar-canal-9-el-nueve-el-nueve-logo.png" group-title="VEGETA TV",El Nueve HD
+http://23.153.217.158:8080/56978782799/2799x/15881
+#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/65759551abad6cb24ee8e410036cb72e.png" group-title="VEGETA TV",El Trece HD
+http://23.153.217.158:8080/56978782799/2799x/15905
+#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/65759551abad6cb24ee8e410036cb72e.png" group-title="VEGETA TV",El Trece SD
+http://23.153.217.158:8080/56978782799/2799x/16158
+#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/78c7c06a9abed64d546c2a3e65236269.png" group-title="VEGETA TV",TV Pública FHD
+http://23.153.217.158:8080/56978782799/2799x/16159
+#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/78c7c06a9abed64d546c2a3e65236269.png" group-title="VEGETA TV",TV Pública HD
+http://23.153.217.158:8080/56978782799/2799x/16160
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="VEGETA TV",Telefe FHD
+http://23.153.217.158:8080/56978782799/2799x/61545
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="VEGETA TV",Telefe HD
+http://23.153.217.158:8080/56978782799/2799x/61544
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="VEGETA TV",Telefe SD
+http://23.153.217.158:8080/56978782799/2799x/53225
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1477725477850783750/DVygjO5R_400x400.jpg" group-title="VEGETA TV",Crónica TV HD
+http://23.153.217.158:8080/56978782799/2799x/61584
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1477725477850783750/DVygjO5R_400x400.jpg" group-title="VEGETA TV",Crónica TV SD
+http://23.153.217.158:8080/56978782799/2799x/61583
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/6311558f59364c7ecfce59a59d0aea36.png" group-title="TV ARG",ARG: Cinecanal
+http://flysky.tel:8080/live/Chris2025/2272200/142476.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/2cc2acb543df3897d1147b2f03cbe502.png" group-title="TV ARG",ARG: Ciudad Magazine
+http://flysky.tel:8080/live/Chris2025/2272200/142477.ts
+#EXTINF:-1 tvg-logo="" group-title="TV ARG",ARG: CMT Argentina
+http://flysky.tel:8080/live/Chris2025/2272200/142478.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/2c0ec9a4fa011827893ffe328bc2f342.jpg" group-title="TV ARG",ARG: CN3 Pinamar
+http://flysky.tel:8080/live/Chris2025/2272200/142479.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/16002e2d8209a8b9fd2f4a2a70e91d49.png" group-title="TV ARG",ARG: Comedy Central
+http://flysky.tel:8080/live/Chris2025/2272200/142480.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TV ARG",ARG: Cosmos TV
+http://flysky.tel:8080/live/Chris2025/2272200/142481.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/5f52de63ca51d413ccfc419e5e90bf2d.jpg" group-title="TV ARG",ARG: CPE
+http://flysky.tel:8080/live/Chris2025/2272200/142482.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/bdec8d4c456023ee72751a92ee40c97f.png" group-title="TV ARG",ARG: Cronica TV
+http://flysky.tel:8080/live/Chris2025/2272200/142483.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/58a3429601ff106e880e5328afbdcc21.png" group-title="TV ARG",ARG: DeporTV
+http://flysky.tel:8080/live/Chris2025/2272200/142484.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/1854a0a64613595125537eef6c0627e2.png" group-title="TV ARG",ARG: DirecTV Sports
+http://flysky.tel:8080/live/Chris2025/2272200/142485.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/5e273abc87d0c12ad227c1c29f2b1d3a.png" group-title="TV ARG",ARG: DirecTV Sports 2
+http://flysky.tel:8080/live/Chris2025/2272200/142486.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/fde1e2daff6e4d9217ea5ec43e863fd1.png" group-title="TV ARG",ARG: DirecTV Sports Plus
+http://flysky.tel:8080/live/Chris2025/2272200/142487.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/2047feaf9a8ca53870f89364aff20a31.png" group-title="TV ARG",ARG: Discovery Theater
+http://flysky.tel:8080/live/Chris2025/2272200/142488.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/2af72175047e94291f8b8c18b43304c3.png" group-title="TV ARG",ARG: Disney Junior
+http://flysky.tel:8080/live/Chris2025/2272200/142489.ts
+#EXTINF:-1 tvg-logo="" group-title="TV ARG",ARG: Eco TV
+http://flysky.tel:8080/live/Chris2025/2272200/142490.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/bae702e0248ee7414a2d21cf9f7e42c4.png" group-title="TV ARG",ARG: El Gourmet
+http://flysky.tel:8080/live/Chris2025/2272200/142491.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/c2b2bffa4e9532dda634ea33a518b3dc.png" group-title="TV ARG",ARG: El Nueve
+http://flysky.tel:8080/live/Chris2025/2272200/142492.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TV ARG",ARG: El Palomar
+http://flysky.tel:8080/live/Chris2025/2272200/142493.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TV ARG",ARG: El Sello TV Madariaga
+http://flysky.tel:8080/live/Chris2025/2272200/142494.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/edc4ee8b118f3d521156e21cd995f316.png" group-title="TV ARG",ARG: El Trece
+http://flysky.tel:8080/live/Chris2025/2272200/142495.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/fc74c1477989b7a4891c23357de0b1ec.png" group-title="TV ARG",ARG: Encuentro
+http://flysky.tel:8080/live/Chris2025/2272200/142496.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/2781be00672c1803f4a2931c86cd9191.png" group-title="TV ARG",ARG: ESPN 2
+http://flysky.tel:8080/live/Chris2025/2272200/142497.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/3652d2c91cf84f4557565d6d9ae896aa.png" group-title="TV ARG",ARG: ESPN 3
+http://flysky.tel:8080/live/Chris2025/2272200/142498.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/48161d7218d33a9d1686daf4370f4b76.png" group-title="TV ARG",ARG: ESPN 4
+http://flysky.tel:8080/live/Chris2025/2272200/142499.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/32cd381cddd366224dff2fae29c3a2cd.svg" group-title="TV ARG",ARG: ESPN Premium
+http://flysky.tel:8080/live/Chris2025/2272200/142500.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/3664ca6f37678672610e757517de1596.png" group-title="TV ARG",ARG: Europa Europa
+http://flysky.tel:8080/live/Chris2025/2272200/142501.ts
+#EXTINF:-1 tvg-logo="" group-title="TV ARG",ARG: fiber fly tv
+http://flysky.tel:8080/live/Chris2025/2272200/142502.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/2d5c8e4079e09fddcd34b02cc8b9f396.png" group-title="TV ARG",ARG: Film & Arts
+http://flysky.tel:8080/live/Chris2025/2272200/142503.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/3228ff272595a813277fee184342a898.png" group-title="TV ARG",ARG: FOX SPORTS
+http://flysky.tel:8080/live/Chris2025/2272200/142504.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/a9d264421a903add564c3563f89f1f94.png" group-title="TV ARG",ARG: FOX SPORTS 2
+http://flysky.tel:8080/live/Chris2025/2272200/142505.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/40c31f03f20ace6d5780453d8699b017.png" group-title="TV ARG",ARG: FOX SPORTS 3
+http://flysky.tel:8080/live/Chris2025/2272200/142506.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/cf10859233b1b6a7e08cceb0b2b1f710.png" group-title="TV ARG",ARG: FOX SPORTS Premium
+http://flysky.tel:8080/live/Chris2025/2272200/142507.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/36e568137e60a684a72f5abcc35e1ad4.png" group-title="TV ARG",ARG: FX
+http://flysky.tel:8080/live/Chris2025/2272200/142508.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/9b758ebad20b38a64562ac1d49d9a5db.png" group-title="TV ARG",ARG: Garage TV
+http://flysky.tel:8080/live/Chris2025/2272200/142509.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/1f43fa18928413a0d61d53dd8b0a5de4.png" group-title="TV ARG",ARG: Glitz
+http://flysky.tel:8080/live/Chris2025/2272200/142510.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TV ARG",ARG: Global TV
+http://flysky.tel:8080/live/Chris2025/2272200/142511.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/b612e2faf2cc711d6fd9a5db4fc777cf.png" group-title="TV ARG",ARG: Gol TV
+http://flysky.tel:8080/live/Chris2025/2272200/142512.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/1511f988cfe2c512f8c5a33f1d78e96b.png" group-title="TV ARG",ARG: HBO Pop
+http://flysky.tel:8080/live/Chris2025/2272200/142513.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/3ca33d515850903cf8bdf0b622409f88.png" group-title="TV ARG",ARG: HBO Xtreme
+http://flysky.tel:8080/live/Chris2025/2272200/142514.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/cf1c7bf5c399b9552d85a254a6bfff8c.png" group-title="TV ARG",ARG: IP Noticias
+http://flysky.tel:8080/live/Chris2025/2272200/142515.ts
+#EXTINF:-1 tvg-logo="" group-title="TV ARG",ARG: juntoal campo
+http://flysky.tel:8080/live/Chris2025/2272200/142516.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TV ARG",ARG: LA 90 FM
+http://flysky.tel:8080/live/Chris2025/2272200/142517.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TV ARG",ARG: La Voz de Tucuman
+http://flysky.tel:8080/live/Chris2025/2272200/142518.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TV ARG",ARG: Lapacho TV Canal 11
+http://flysky.tel:8080/live/Chris2025/2272200/142519.ts
+#EXTINF:-1 tvg-logo="" group-title="TV ARG",ARG: latino kids
+http://flysky.tel:8080/live/Chris2025/2272200/142520.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/9b564fee4b0c2ca4124aaf2c950377e8.png" group-title="TV ARG",ARG: Litus
+http://flysky.tel:8080/live/Chris2025/2272200/142521.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/01d128471f5e8ca9a519a673ce3bef5d.png" group-title="TV ARG",ARG: LN+
+http://flysky.tel:8080/live/Chris2025/2272200/142522.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TV ARG",ARG: LTO Television
+http://flysky.tel:8080/live/Chris2025/2272200/142523.ts
+#EXTINF:-1 tvg-logo="" group-title="TV ARG",ARG: madryn tv
+http://flysky.tel:8080/live/Chris2025/2272200/142524.ts
+#EXTINF:-1 tvg-logo="" group-title="TV ARG",ARG: malbec play
+http://flysky.tel:8080/live/Chris2025/2272200/142525.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TV ARG",ARG: Mas FM
+http://flysky.tel:8080/live/Chris2025/2272200/142526.ts
+#EXTINF:-1 tvg-logo="" group-title="TV ARG",ARG: medios provincia
+http://flysky.tel:8080/live/Chris2025/2272200/142527.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TV ARG",ARG: megaclassic
+http://flysky.tel:8080/live/Chris2025/2272200/142528.ts
+#EXTINF:-1 tvg-logo="" group-title="TV ARG",ARG: metropolitana FM
+http://flysky.tel:8080/live/Chris2025/2272200/142529.ts
+#EXTINF:-1 tvg-logo="" group-title="TV ARG",ARG: milennio tv
+http://flysky.tel:8080/live/Chris2025/2272200/142530.ts
+#EXTINF:-1 tvg-logo="" group-title="TV ARG",ARG: misiones cuatro
+http://flysky.tel:8080/live/Chris2025/2272200/142531.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/bced8b135dd40f87ea3be4bebad0a167.png" group-title="TV ARG",ARG: Multivision
+http://flysky.tel:8080/live/Chris2025/2272200/142532.ts
+#EXTINF:-1 tvg-logo="" group-title="TV ARG",ARG: mundode la musica tv
+http://flysky.tel:8080/live/Chris2025/2272200/142533.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/eb2e0a4859a751f772caaa9318dcd69e.png" group-title="TV ARG",ARG: NAT GEO Wild
+http://flysky.tel:8080/live/Chris2025/2272200/142534.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TV ARG",ARG: Neo TV
+http://flysky.tel:8080/live/Chris2025/2272200/142535.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TV ARG",ARG: Neox TV
+http://flysky.tel:8080/live/Chris2025/2272200/142536.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/5beb42d6f4483595c735126f1654df0d.png" group-title="TV ARG",ARG: Net TV
+http://flysky.tel:8080/live/Chris2025/2272200/142537.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/9fb3b0c058075980d9d0e970f69413ae.png" group-title="TV ARG",ARG: nickelodeon
+http://flysky.tel:8080/live/Chris2025/2272200/142538.ts
+#EXTINF:-1 tvg-logo="" group-title="TV ARG",ARG: nnm
+http://flysky.tel:8080/live/Chris2025/2272200/142539.ts
+#EXTINF:-1 tvg-logo="" group-title="TV ARG",ARG: owbakn
+http://flysky.tel:8080/live/Chris2025/2272200/142540.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/9faddc6dfb831958eedddfefc69ef336.png" group-title="TV ARG",ARG: Pakapaka
+http://flysky.tel:8080/live/Chris2025/2272200/142541.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TV ARG",ARG: Play Television
+http://flysky.tel:8080/live/Chris2025/2272200/142543.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TV ARG",ARG: Power Max Radio TV
+http://flysky.tel:8080/live/Chris2025/2272200/142544.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TV ARG",ARG: Radio Sublime Gracia TV
+http://flysky.tel:8080/live/Chris2025/2272200/142547.ts
+#EXTINF:-1 tvg-logo="" group-title="TV ARG",ARG: sanluismas
+http://flysky.tel:8080/live/Chris2025/2272200/142552.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/8bb00f94cec3a9fa3ca18aa9058cdc48.jpg" group-title="TV ARG",ARG: Santa Fe Canal
+http://flysky.tel:8080/live/Chris2025/2272200/142553.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TV ARG",ARG: Sicardi TV
+http://flysky.tel:8080/live/Chris2025/2272200/142555.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/67d3de18826c9eb2d9bdaf45a9aa1880.png" group-title="TV ARG",ARG: Smithsonian Channel
+http://flysky.tel:8080/live/Chris2025/2272200/142556.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/efe530c6e5f431ca57fbd7d71864316e.png" group-title="TV ARG",ARG: Solidaria TV Argentina
+http://flysky.tel:8080/live/Chris2025/2272200/142557.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TV ARG",ARG: Somos La Pampa
+http://flysky.tel:8080/live/Chris2025/2272200/142558.ts
+#EXTINF:-1 tvg-logo="" group-title="TV ARG",ARG: spectrum channel
+http://flysky.tel:8080/live/Chris2025/2272200/142559.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/3777ca696e625690484b532e004ccf9e.png" group-title="TV ARG",ARG: SYFY
+http://flysky.tel:8080/live/Chris2025/2272200/142561.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/36b045ea0cedcaa50ab40c4ae62e3b6e.jpg" group-title="TV ARG",ARG: Tele Red
+http://flysky.tel:8080/live/Chris2025/2272200/142564.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TV ARG",ARG: Telecinco
+http://flysky.tel:8080/live/Chris2025/2272200/142565.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TV ARG",ARG: Telediez
+http://flysky.tel:8080/live/Chris2025/2272200/142568.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/5f3f4f7a1dab98f88c074ae5899f2462.png" group-title="TV ARG",ARG: Telemax
+http://flysky.tel:8080/live/Chris2025/2272200/142570.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/07f6f21e86261ca148ba876bbb9cea06.jpg" group-title="TV ARG",ARG: Telenord Corrientes
+http://flysky.tel:8080/live/Chris2025/2272200/142571.ts
+#EXTINF:-1 tvg-logo="" group-title="TV ARG",ARG: televideo
+http://flysky.tel:8080/live/Chris2025/2272200/142573.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/832e15669e6409798ce64da4278d3822.png" group-title="TV ARG",ARG: TNT Sports
+http://flysky.tel:8080/live/Chris2025/2272200/142576.ts
+#EXTINF:-1 tvg-logo="" group-title="TV ARG",ARG: Transmision
+http://flysky.tel:8080/live/Chris2025/2272200/142578.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/647d5bf51ff47c4e91e4138504b2f852.png" group-title="TV ARG",ARG: TV Mana Argentina
+http://flysky.tel:8080/live/Chris2025/2272200/142579.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/9bb1c0cb8fd423cb1d47af3d8d2ac7bb.jpg" group-title="TV ARG",ARG: TVU Universidad Nacional de La Plata
+http://flysky.tel:8080/live/Chris2025/2272200/142580.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/45499fff932c7153ba01c3199ba88117.png" group-title="TV ARG",ARG: TyC Sports
+http://flysky.tel:8080/live/Chris2025/2272200/142581.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TV ARG",ARG: UNAM Transmedia
+http://flysky.tel:8080/live/Chris2025/2272200/142582.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/647d5bf51ff47c4e91e4138504b2f852.png" group-title="TV ARG",ARG: Unife TV
+http://flysky.tel:8080/live/Chris2025/2272200/142583.ts
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/598cdc558d43e1920213c68ef532c7da.jpg" group-title="TV ARG",ARG: Uniteve
+http://flysky.tel:8080/live/Chris2025/2272200/142584.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TV ARG",ARG: Ver TV
+http://flysky.tel:8080/live/Chris2025/2272200/142587.ts
